@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
+  text1: "Xin tham kiến bệ hạ, tôi Đặng Thu Hương xin dùng tất cả vinh hạnh của mình để gửi đến Người một lời chúc buổi chiều tốt lành",
+  text2: "Nhân dịp ngày 6/4, bé xin thay mặt hơn 7 tỷ dân trên thế giới, chúc anh iu của em một ngày lễ vui vẻ, ví luôn có nhiều tiền, lúc nào cũng đẹp trai và quan trọng là thuộc về em <3<3<3",
+  text3: "Em có câu hỏi muốn hỏi anh đây. Anh không trả lời thật em đấm anh :)",
+  text4: "Anh có yêu em không ạ???",
+  text5: "Khum. Tớ ghét cậu .-.",
   text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
+  text7: "Lí do cậu yêu tớ đi ._.",
+  text8: "Iu",
+  text9: "Vì cậu đáng eo vlllll",
   text10: "Tớ biết mà ^^ Yêu cậu 300.000",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
+    "Hẹn cậu thứ 7 đi chơi với tớ ạ. Yêu cậu nhiều lém <3<3<3",
   text12: "Okii lunn <3",
 };
 
